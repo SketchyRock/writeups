@@ -5,7 +5,7 @@ It includes materials I developed personally and external resources that proved 
 **Cyber Defense:**
 Scripts, hardening checklists, and monitoring templates.
 
-**Programming:**
+**Competitive Programming:**
 Important boilerplate code and algorithm implementations.
 
 **Retrospectives:**
