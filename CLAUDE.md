@@ -22,6 +22,8 @@ writeups/
 │   └── 2026-02-08-JMUS-Makeathon-retrospective.md    # Home automation product design, presentation strategy
 ├── Club-Events-2025/
 │   └── 2026-04-25-JMU-Blue-Team-Mock-Competition-retrospective.md  # Internal defense sim, Windows hardening
+├── Conferences-2025/
+│   └── 2026-04-12-RVASEC15-retrospective.md                        # First conference, networking > competition
 ├── README.md                                    # Overview
 └── CLAUDE.md                                    # This file
 ```
@@ -64,6 +66,9 @@ Quick-reference guides and checklists for tools/platforms used during competitio
 **Club Events & Internal Training:**
 - **JMU Blue Team Mock Competition:** Real-time defense feedback, Windows hardening, iterative improvement, mentorship-focused learning environment
 
+**Conferences:**
+- **RVASEC15:** First industry conference, networking with security professionals, CTF (secondary goal), insights on soft skills and career development
+
 ## Skills & Domains Covered
 
 - **Competitive Programming:** Algorithms, data structures, discrete math, combinatorics, problem-solving under time constraints
@@ -71,5 +76,6 @@ Quick-reference guides and checklists for tools/platforms used during competitio
 - **Offensive Security & CTF:** Challenge solving, exploitation, reverse engineering, forensics, web vulnerabilities, automated exploitation frameworks, privilege escalation, network enumeration, hands-on vs. automated trade-offs
 - **System Engineering:** Container orchestration (Docker), automation framework design, tool integration (Metasploit, sqlmap), payload generation and testing, realistic infrastructure exploitation
 - **Product Design & Development:** Cross-platform system integration, AI/conversational interfaces, smart home automation, hardware interfacing (Raspberry Pi)
-- **Presentation & Communication:** Product positioning, narrative design, technical/non-technical audience engagement, lessons on clarity vs. elegance
-- **Team Coordination:** Cross-functional collaboration (technical + business), technical leadership, time management under pressure, rapid prototyping
+- **Presentation & Communication:** Product positioning, narrative design, technical/non-technical audience engagement, lessons on clarity vs. elegance, conference networking, personal branding
+- **Professional Development:** Networking, industry relationship building, understanding career paths, soft skills, conference attendance, mentorship
+- **Team Coordination:** Cross-functional collaboration (technical + business), technical leadership, time management under pressure, rapid prototyping, mentorship from experienced members

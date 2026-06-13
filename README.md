@@ -18,6 +18,9 @@ A portfolio repository documenting participation in cybersecurity competitions a
 **Club Events & Training:**
 - **JMU Blue Team Mock Competition**: Real-time defense feedback, Windows hardening, host-level security, mentorship-focused learning
 
+**Conferences:**
+- **RVASEC15** (Roanoke, VA): First security conference, industry insights, networking over competition, soft skills development
+
 ## What's Inside
 
 **Retrospectives:** In-depth analysis of each competition including executive summary, technical deep dives, incident analyses, and actionable growth priorities.
