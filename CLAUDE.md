@@ -20,6 +20,8 @@ writeups/
 │   └── 2026-02-22-Summit-CTF-retrospective.md        # Virginia Tech hybrid CTF (airport theme, 9th place)
 ├── Makeathons-2025/
 │   └── 2026-02-08-JMUS-Makeathon-retrospective.md    # Home automation product design, presentation strategy
+├── Club-Events-2025/
+│   └── 2026-04-25-JMU-Blue-Team-Mock-Competition-retrospective.md  # Internal defense sim, Windows hardening
 ├── README.md                                    # Overview
 └── CLAUDE.md                                    # This file
 ```
@@ -59,10 +61,13 @@ Quick-reference guides and checklists for tools/platforms used during competitio
 **Makeathons/Hackathons:**
 - **JMUS Makeathon:** Product design, cross-platform system integration, presentation strategy, product positioning
 
+**Club Events & Internal Training:**
+- **JMU Blue Team Mock Competition:** Real-time defense feedback, Windows hardening, iterative improvement, mentorship-focused learning environment
+
 ## Skills & Domains Covered
 
 - **Competitive Programming:** Algorithms, data structures, discrete math, combinatorics, problem-solving under time constraints
-- **Cyber Defense:** Firewall configuration (Palo Alto NextGen), Linux hardening, security monitoring, incident response, service ownership, credential rotation
+- **Cyber Defense:** Firewall configuration (Palo Alto NextGen), Linux hardening, Windows hardening (host-level), security monitoring, incident response, service ownership, credential rotation, Active Directory basics
 - **Offensive Security & CTF:** Challenge solving, exploitation, reverse engineering, forensics, web vulnerabilities, automated exploitation frameworks, privilege escalation, network enumeration, hands-on vs. automated trade-offs
 - **System Engineering:** Container orchestration (Docker), automation framework design, tool integration (Metasploit, sqlmap), payload generation and testing, realistic infrastructure exploitation
 - **Product Design & Development:** Cross-platform system integration, AI/conversational interfaces, smart home automation, hardware interfacing (Raspberry Pi)
