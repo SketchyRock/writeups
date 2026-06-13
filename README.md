@@ -1,12 +1,20 @@
-# Competition Resources & Notes: Cyber Defense & Competitive Programming
-This repository serves as a central hub for the resources, tools, and retrospectives from my various competitions.
-It includes materials I developed personally and external resources that proved invaluable during events.
+# Competition Write-ups & Resources
+
+A portfolio repository documenting participation in cybersecurity competitions and conferences, featuring retrospectives analyzing performance, lessons learned, and growth priorities.
+
+## Competition Portfolio
 
 **Cyber Defense:**
-Scripts, hardening checklists, and monitoring templates.
+- **MACCDC** (Mid-Atlantic Collegiate Cyber Defense Competition): Defensive security, incident response, firewall hardening (Palo Alto), Linux system administration
 
-**Competitive Programming:**
-Important boilerplate code and algorithm implementations.
+**CTF Competitions:**
+- **VMI Cyber Fusion**: Offensive security, automated exploitation, CTF challenge solving
+- **ICPC** (International Collegiate Programming Contest): Competitive programming, algorithms, problem-solving under time constraints
 
-**Retrospectives:**
-Analysis of performance, lessons learned, and future improvements for each event.
+## What's Inside
+
+**Retrospectives:** In-depth analysis of each competition including executive summary, technical deep dives, incident analyses, and actionable growth priorities.
+
+**Technical References:** Quick-reference guides and checklists for tools/platforms (e.g., Palo Alto firewall commands, exploitation frameworks).
+
+**Purpose:** Demonstrates active learning, self-reflection, and continuous improvement in cybersecurity and competitive programming.

@@ -14,6 +14,8 @@ writeups/
 │   │   └── MACCDC-Palo-Alto-reference.md       # Technical reference for firewall setup
 │   └── Regionals/
 │       └── 2026-1-25-MACCDC-regionals-retrospective.md
+├── VMI-2025/
+│   └── 2026-02-15-VMI-Cyber-Fusion-retrospective.md  # Microsoft-hosted CTF (secondary division, 1st place)
 ├── README.md                                    # Overview
 └── CLAUDE.md                                    # This file
 ```
@@ -44,11 +46,14 @@ Quick-reference guides and checklists for tools/platforms used during competitio
 
 ## Key Competitions
 
-- **ICPC (International Collegiate Programming Contest):** Competitive programming, algorithmic problem-solving
-- **MACCDC (Mid-Atlantic Collegiate Cyber Defense Competition):** Defensive security, incident response, maintaining uptime under active attack
+- **ICPC (International Collegiate Programming Contest):** Competitive programming, algorithmic problem-solving, discrete math
+- **MACCDC (Mid-Atlantic Collegiate Cyber Defense Competition):** Defensive security, incident response, maintaining uptime under active attack, Linux hardening
+- **VMI Cyber Fusion:** CTF competition (capture the flag), offensive security, automated exploitation, tool integration, system engineering
 
 ## Skills & Domains Covered
 
-- **Competitive Programming:** Algorithms, data structures, problem-solving under time constraints
-- **Cyber Defense:** Firewall configuration (Palo Alto), Linux hardening, security monitoring, incident response
-- **Team Coordination:** Cross-functional collaboration, technical leadership, time management under pressure
+- **Competitive Programming:** Algorithms, data structures, discrete math, combinatorics, problem-solving under time constraints
+- **Cyber Defense:** Firewall configuration (Palo Alto NextGen), Linux hardening, security monitoring, incident response, service ownership, credential rotation
+- **Offensive Security & CTF:** Challenge solving, exploitation, reverse engineering, forensics, web vulnerabilities, automated exploitation frameworks
+- **System Engineering:** Container orchestration (Docker), automation framework design, tool integration (Metasploit, sqlmap), payload generation and testing
+- **Team Coordination:** Cross-functional collaboration, technical leadership, time management under pressure, hybrid team structures (competitive + supporting roles)
