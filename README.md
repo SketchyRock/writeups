@@ -7,9 +7,12 @@ A portfolio repository documenting participation in cybersecurity competitions a
 **Cyber Defense:**
 - **MACCDC** (Mid-Atlantic Collegiate Cyber Defense Competition): Defensive security, incident response, firewall hardening (Palo Alto), Linux system administration
 
-**CTF Competitions:**
-- **VMI Cyber Fusion**: Offensive security, automated exploitation, CTF challenge solving
-- **ICPC** (International Collegiate Programming Contest): Competitive programming, algorithms, problem-solving under time constraints
+**Offensive Security & CTF:**
+- **VMI Cyber Fusion**: Offensive security, automated exploitation frameworks, system engineering
+- **ICPC** (International Collegiate Programming Contest): Competitive programming, algorithms, discrete mathematics
+
+**Product Design & Innovation:**
+- **JMUS Makeathon**: Home automation product design, cross-platform system integration, product positioning, presentation strategy
 
 ## What's Inside
 

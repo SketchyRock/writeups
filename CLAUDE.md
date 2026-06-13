@@ -16,6 +16,8 @@ writeups/
 │       └── 2026-1-25-MACCDC-regionals-retrospective.md
 ├── VMI-2025/
 │   └── 2026-02-15-VMI-Cyber-Fusion-retrospective.md  # Microsoft-hosted CTF (secondary division, 1st place)
+├── Makeathons-2025/
+│   └── 2026-02-08-JMUS-Makeathon-retrospective.md    # Home automation product design, presentation strategy
 ├── README.md                                    # Overview
 └── CLAUDE.md                                    # This file
 ```
@@ -44,11 +46,15 @@ Quick-reference guides and checklists for tools/platforms used during competitio
 3. **Actionable:** Every lesson should lead to a concrete improvement or action item.
 4. **Technical Depth:** Include enough technical detail that someone could replicate your setup or learn from your mistakes.
 
-## Key Competitions
+## Key Events
 
+**Competitions:**
 - **ICPC (International Collegiate Programming Contest):** Competitive programming, algorithmic problem-solving, discrete math
 - **MACCDC (Mid-Atlantic Collegiate Cyber Defense Competition):** Defensive security, incident response, maintaining uptime under active attack, Linux hardening
 - **VMI Cyber Fusion:** CTF competition (capture the flag), offensive security, automated exploitation, tool integration, system engineering
+
+**Makeathons/Hackathons:**
+- **JMUS Makeathon:** Product design, cross-platform system integration, presentation strategy, product positioning
 
 ## Skills & Domains Covered
 
@@ -56,4 +62,6 @@ Quick-reference guides and checklists for tools/platforms used during competitio
 - **Cyber Defense:** Firewall configuration (Palo Alto NextGen), Linux hardening, security monitoring, incident response, service ownership, credential rotation
 - **Offensive Security & CTF:** Challenge solving, exploitation, reverse engineering, forensics, web vulnerabilities, automated exploitation frameworks
 - **System Engineering:** Container orchestration (Docker), automation framework design, tool integration (Metasploit, sqlmap), payload generation and testing
-- **Team Coordination:** Cross-functional collaboration, technical leadership, time management under pressure, hybrid team structures (competitive + supporting roles)
+- **Product Design & Development:** Cross-platform system integration, AI/conversational interfaces, smart home automation, hardware interfacing (Raspberry Pi)
+- **Presentation & Communication:** Product positioning, narrative design, technical/non-technical audience engagement, lessons on clarity vs. elegance
+- **Team Coordination:** Cross-functional collaboration (technical + business), technical leadership, time management under pressure, rapid prototyping
