@@ -1,23 +1,23 @@
 [
   {
-    "title": "JMU Makeathon, Fall 2026",
+    "title": "JMU Hackathon, Fall 2026",
     "type": "retrospective",
-    "category": "makeathon",
-    "event": "JMU Makeathon",
+    "category": "hackathon",
+    "event": "JMU Hackathon",
     "date": "2026-11-13",
     "end_date": "2026-11-14",
-    "format": "24-hour makeathon",
+    "format": "24-hour hackathon",
     "prompt": "Break out of your comfort zone",
     "team": "David Hilscher, Luke Bonnell, Curtis Linweaver, me",
     "result": "3rd place",
     "repo": "https://github.com/SketchyRock/echoes",
     "tags": [
-      "makeathon",
+      "hackathon",
       "pitching",
       "product",
       "echoes"
     ],
-    "path": "2026/echoes-makeathon.md"
+    "path": "2026/echoes-hackathon.md"
   },
   {
     "title": "JMU Blue Team Mock Competition",
@@ -181,20 +181,20 @@
     "path": "2025/vmi-cyber-fusion.md"
   },
   {
-    "title": "JMUS Makeathon 2025",
+    "title": "JMUS Hackathon 2025",
     "type": "retrospective",
-    "category": "makeathon",
-    "event": "JMUS Makeathon",
+    "category": "hackathon",
+    "event": "JMUS Hackathon",
     "date": "2025-02-08",
     "format": "24-hour hackathon, solutions for mental health or disaster response",
     "team": "4 people (2 CP members, 1 business major, me)",
     "result": "No placement; judges gave 'best presentation overall' feedback",
     "tags": [
-      "makeathon",
+      "hackathon",
       "pitching",
       "product-clarity"
     ],
-    "path": "2025/jmus-makeathon.md"
+    "path": "2025/jmus-hackathon.md"
   },
   {
     "title": "Palo Alto NextGen Firewall Reference",

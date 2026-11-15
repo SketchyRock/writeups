@@ -1,6 +1,6 @@
 # writeups
 
-Short, honest retrospectives from the security competitions, makeathons, and conferences I take part in: what happened, what went wrong, and what I'd change. Each one is a single Markdown page. There is also a firewall cheat sheet and a technical overview of a CTF tool I built.
+Short, honest retrospectives from the security competitions, hackathons, and conferences I take part in: what happened, what went wrong, and what I'd change. Each one is a single Markdown page. There is also a firewall cheat sheet and a technical overview of a CTF tool I built.
 
 ## Index
 
@@ -28,12 +28,12 @@ Short, honest retrospectives from the security competitions, makeathons, and con
 |---|---|---|
 | [ICPC 2025](2025/icpc.md) | Nov 2025 | ~50th percentile, 5 problems solved as a team |
 
-### Makeathons
+### Hackathons
 
 | Event | Date | Result |
 |---|---|---|
-| [JMU Makeathon, Fall 2026](2026/echoes-makeathon.md) | Nov 2026 | 3rd place |
-| [JMUS Makeathon 2025](2025/jmus-makeathon.md) | Feb 2025 | No placement; judges gave 'best presentation overall' feedback |
+| [JMU Hackathon, Fall 2026](2026/echoes-hackathon.md) | Nov 2026 | 3rd place |
+| [JMUS Hackathon 2025](2025/jmus-hackathon.md) | Feb 2025 | No placement; judges gave 'best presentation overall' feedback |
 
 ### Conferences
 

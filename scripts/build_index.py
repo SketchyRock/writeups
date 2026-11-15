@@ -17,7 +17,7 @@ CATEGORIES = [
     ("ctf", "Capture the flag"),
     ("cyber-defense", "Cyber defense"),
     ("competitive-programming", "Competitive programming"),
-    ("makeathon", "Makeathons"),
+    ("hackathon", "Hackathons"),
     ("conference", "Conferences"),
 ]
 MONTHS = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
