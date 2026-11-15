@@ -57,6 +57,22 @@
     "path": "2026/rvasec15.md"
   },
   {
+    "title": "JMUS Makeathon, Spring 2026",
+    "type": "retrospective",
+    "category": "makeathon",
+    "event": "JMUS Makeathon",
+    "date": "2026-02-08",
+    "format": "24-hour hackathon, solutions for mental health or disaster response",
+    "team": "4 people (2 CP members, 1 business major, me)",
+    "result": "No placement; judges gave 'best presentation overall' feedback",
+    "tags": [
+      "makeathon",
+      "pitching",
+      "product-clarity"
+    ],
+    "path": "2026/jmus-makeathon.md"
+  },
+  {
     "title": "VMI CyberFusion 2026: CTF Orchestrator Overview",
     "type": "project-writeup",
     "category": "ctf",
@@ -163,22 +179,6 @@
       "teamwork"
     ],
     "path": "2025/summit-ctf.md"
-  },
-  {
-    "title": "JMUS Makeathon 2025",
-    "type": "retrospective",
-    "category": "makeathon",
-    "event": "JMUS Makeathon",
-    "date": "2025-02-08",
-    "format": "24-hour hackathon, solutions for mental health or disaster response",
-    "team": "4 people (2 CP members, 1 business major, me)",
-    "result": "No placement; judges gave 'best presentation overall' feedback",
-    "tags": [
-      "makeathon",
-      "pitching",
-      "product-clarity"
-    ],
-    "path": "2025/jmus-makeathon.md"
   },
   {
     "title": "Palo Alto NextGen Firewall Reference",
