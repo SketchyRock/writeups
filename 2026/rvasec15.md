@@ -5,7 +5,7 @@ category: "conference"
 event: "RVASEC15"
 date: 2026-04-12
 end_date: 2026-04-13
-location: "Roanoke, VA"
+location: "Richmond, VA"
 format: "Security conference (first attended)"
 ctf: "8 challenges in about 1 hour, then stopped"
 result: "5 professional contacts who said to reach out after graduation"
