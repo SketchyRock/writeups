@@ -4,6 +4,7 @@ type: "retrospective"
 category: "cyber-defense"
 event: "MACCDC"
 date: 2026-01-17
+location: "University of Maryland"
 role: "Palo Alto Firewall Administrator"
 result: "Solid individual performance, but a wake-up call on team prep gaps"
 tags: [maccdc, blue-team, palo-alto, incident-response]

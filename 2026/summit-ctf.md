@@ -1,10 +1,11 @@
 ---
-title: "Summit CTF 2025"
+title: "Summit CTF 2026"
 type: "retrospective"
 category: "ctf"
 event: "Summit CTF"
-date: 2025-02-22
-end_date: 2025-02-23
+date: 2026-02-22
+end_date: 2026-02-23
+location: "Virginia Tech"
 organizer: "Virginia Tech"
 theme: "Airport infrastructure (Hack the Airport)"
 format: "Hybrid: jeopardy + live network"
@@ -13,7 +14,7 @@ result: "9th out of ~35"
 tags: [ctf, privilege-escalation, enumeration, teamwork]
 ---
 
-# Summit CTF 2025
+# Summit CTF 2026
 
 [← All write-ups](../README.md)
 

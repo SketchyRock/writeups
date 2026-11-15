@@ -10,8 +10,8 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 
 | Event | Date | Result |
 |---|---|---|
+| [Summit CTF 2026](2026/summit-ctf.md) | Feb 2026 | 9th out of ~35 |
 | [VMI CyberFusion 2026 Retrospective](2026/vmi-cyber-fusion.md) | Feb 2026 | 1st place overall |
-| [Summit CTF 2025](2025/summit-ctf.md) | Feb 2025 | 9th out of ~35 |
 
 ### Cyber defense
 
