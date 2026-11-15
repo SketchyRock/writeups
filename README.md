@@ -38,7 +38,7 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 
 | Event | Date | Result |
 |---|---|---|
-| [RVASEC15](2026/rvasec15.md) | Apr 2026 | 5 professional contacts, 1 job offer pending graduation |
+| [RVASEC15](2026/rvasec15.md) | Apr 2026 | 5 professional contacts who said to reach out after graduation |
 
 ### Reference and project notes
 
