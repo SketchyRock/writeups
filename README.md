@@ -1,30 +1,30 @@
 # Competition Write-ups & Resources
 
-A portfolio repository documenting participation in cybersecurity competitions and conferences, featuring retrospectives analyzing performance, lessons learned, and growth priorities.
+Documenting participation in cybersecurity competitions, makeathons, and conferences. Retrospectives focus on what the experience was like, what went wrong, and what to do differently.
 
-## Competition Portfolio
+## Structure
 
-**Cyber Defense:**
-- **MACCDC** (Mid-Atlantic Collegiate Cyber Defense Competition): Defensive security, incident response, firewall hardening (Palo Alto), Linux system administration
+Files are organized by year. Each event gets one document.
 
-**Offensive Security & CTF:**
-- **VMI Cyber Fusion**: Offensive security, automated exploitation frameworks, system engineering (1st place)
-- **Summit CTF** (Virginia Tech): Hybrid jeopardy + live network CTF, automated vs. hands-on exploitation, privilege escalation (9th place, ~35 teams)
-- **ICPC** (International Collegiate Programming Contest): Competitive programming, algorithms, discrete mathematics
+```
+2025/
+  icpc.md                   # ICPC regional — first CP contest, ~50th percentile
+  vmi-cyber-fusion.md       # VMI Cyber Fusion — automated CTF solver, 1st place
+  summit-ctf.md             # Summit CTF (VT) — hybrid jeopardy + live network, 9th place
+  jmus-makeathon.md         # JMUS Makeathon — Jarvis home automation, clarity > elegance
 
-**Product Design & Innovation:**
-- **JMUS Makeathon**: Home automation product design, cross-platform system integration, product positioning, presentation strategy
+2026/
+  maccdc-qualifiers.md      # MACCDC Qualifiers — firewall admin, unowned system incident
+  maccdc-regionals.md       # MACCDC Regionals (UMD) — packet loop, prep > skill
+  jmu-blue-team-mock.md     # JMU internal mock — Windows defense, real-time feedback
+  echoes-makeathon.md       # JMU Makeathon fall 2026 — Echoes, 3rd place
+  rvasec15.md               # RVASEC15 conference — networking > CTF grinding
+  palo-alto-reference.md    # Quick reference for Palo Alto NextGen firewall (MACCDC)
+```
 
-**Club Events & Training:**
-- **JMU Blue Team Mock Competition**: Real-time defense feedback, Windows hardening, host-level security, mentorship-focused learning
+## Events covered
 
-**Conferences:**
-- **RVASEC15** (Roanoke, VA): First security conference, industry insights, networking over competition, soft skills development
-
-## What's Inside
-
-**Retrospectives:** In-depth analysis of each competition including executive summary, technical deep dives, incident analyses, and actionable growth priorities.
-
-**Technical References:** Quick-reference guides and checklists for tools/platforms (e.g., Palo Alto firewall commands, exploitation frameworks).
-
-**Purpose:** Demonstrates active learning, self-reflection, and continuous improvement in cybersecurity and competitive programming.
+**Competitions:** ICPC, MACCDC (qualifiers + regionals), VMI Cyber Fusion, Summit CTF  
+**Makeathons:** JMUS Makeathon, JMU Makeathon (Fall 2026)  
+**Club events:** JMU Blue Team Mock Competition  
+**Conferences:** RVASEC15

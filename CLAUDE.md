@@ -1,81 +1,68 @@
 # Competition Write-ups & Documentation
 
-A portfolio repository documenting participation in cybersecurity competitions and conferences, including retrospectives, technical references, and lessons learned.
+A portfolio repository documenting participation in cybersecurity competitions and conferences, including retrospectives and technical references.
 
 ## Repository Structure
 
 ```
 writeups/
-├── ICPC-2025/
-│   └── 2026-1-24-ICPC-retrospective.md          # ICPC 2025 North America Mid-Atlantic Regional
-├── MACCDC-2026/
-│   ├── Qualifier/
-│   │   ├── 2026-1-25-MACCDC-qualifiers-retrospective.md
-│   │   └── MACCDC-Palo-Alto-reference.md       # Technical reference for firewall setup
-│   └── Regionals/
-│       └── 2026-1-25-MACCDC-regionals-retrospective.md
-├── VMI-2025/
-│   └── 2026-02-15-VMI-Cyber-Fusion-retrospective.md  # Microsoft-hosted CTF (secondary division, 1st place)
-├── CTF-Competitions-2025/
-│   └── 2026-02-22-Summit-CTF-retrospective.md        # Virginia Tech hybrid CTF (airport theme, 9th place)
-├── Makeathons-2025/
-│   └── 2026-02-08-JMUS-Makeathon-retrospective.md    # Home automation product design, presentation strategy
-├── Club-Events-2025/
-│   └── 2026-04-25-JMU-Blue-Team-Mock-Competition-retrospective.md  # Internal defense sim, Windows hardening
-├── Conferences-2025/
-│   └── 2026-04-12-RVASEC15-retrospective.md                        # First conference, networking > competition
-├── README.md                                    # Overview
-└── CLAUDE.md                                    # This file
+├── 2025/
+│   ├── icpc.md                   # ICPC regional — first CP contest
+│   ├── vmi-cyber-fusion.md       # VMI Cyber Fusion — automated CTF, 1st place
+│   ├── summit-ctf.md             # Summit CTF (VT) — hybrid jeopardy + live network, 9th
+│   └── jmus-makeathon.md         # JMUS Makeathon — product design hackathon
+├── 2026/
+│   ├── maccdc-qualifiers.md      # MACCDC Qualifiers — firewall admin
+│   ├── maccdc-regionals.md       # MACCDC Regionals (UMD) — 48hr live defense
+│   ├── jmu-blue-team-mock.md     # JMU internal mock — Windows hardening
+│   ├── echoes-makeathon.md       # JMU Makeathon fall 2026 — Echoes, 3rd place
+│   ├── rvasec15.md               # RVASEC15 — first security conference
+│   └── palo-alto-reference.md    # Palo Alto NextGen quick reference (MACCDC)
+├── README.md
+└── CLAUDE.md
 ```
 
 ## Document Types
 
 ### Retrospectives
-After-action reviews of competition performance. Each retrospective includes:
-- **Executive Summary:** Overall results and key contribution
-- **Technical Section:** Deep dive into work performed (problems solved, systems secured, attacks mitigated)
-- **Lessons Learned:** Analysis of what went wrong, root causes, and insights gained
-- **Growth Priorities:** Specific, actionable improvements for future competitions
+After-action reviews focused on experience, what went wrong, and what to learn. Not comprehensive reports — honest notes on what actually happened.
 
-**File Naming Convention:** `YYYY-M-DD-[EVENT]-retrospective.md`
+**File naming:** simple event name, no date prefix (year is the folder)
 
 ### Technical References
-Quick-reference guides and checklists for tools/platforms used during competitions.
-- **Audience:** Self + team members during future competitions
-- **Format:** Code snippets + command reference tables + troubleshooting guides
-- **Goal:** Enable rapid execution without having to re-research during time-critical events
+Quick-reference guides for tools used during competitions. Code snippets + command tables + troubleshooting. Audience is future-me during a competition.
 
 ## Writing Guidelines
 
-1. **Clarity First:** Write for a reader who wasn't at the event. Use concrete examples.
-2. **Honesty:** Call out mistakes and gaps in knowledge. Retrospectives are learning tools.
-3. **Actionable:** Every lesson should lead to a concrete improvement or action item.
-4. **Technical Depth:** Include enough technical detail that someone could replicate your setup or learn from your mistakes.
+1. **Human, not corporate.** Write like personal notes, not a professional report. Doesn't need to be exhaustive.
+2. **Experience first.** What did it feel like? What happened? Then: what did I learn?
+3. **Honest about failures.** Call out mistakes clearly. No softening.
+4. **Actionable but brief.** One or two real takeaways beats five bullet points of generic advice.
+5. **Not too long.** If it's over 300 lines, it's probably trying to cover too much.
 
 ## Key Events
 
 **Competitions:**
-- **ICPC (International Collegiate Programming Contest):** Competitive programming, algorithmic problem-solving, discrete math
-- **MACCDC (Mid-Atlantic Collegiate Cyber Defense Competition):** Defensive security, incident response, maintaining uptime under active attack, Linux hardening
-- **VMI Cyber Fusion:** CTF competition (capture the flag), offensive security, automated exploitation, tool integration, system engineering (1st place)
-- **Summit CTF** (Virginia Tech): Hybrid CTF (jeopardy + live network), privilege escalation, network exploitation, service enumeration, persistence (9th place)
+- **ICPC:** Competitive programming, algorithms, discrete math
+- **MACCDC:** Cyber defense, incident response, maintaining uptime under active attack
+- **VMI Cyber Fusion:** CTF, automated exploitation, system engineering (1st place)
+- **Summit CTF (VT):** Hybrid CTF — jeopardy + live network (9th place)
 
-**Makeathons/Hackathons:**
-- **JMUS Makeathon:** Product design, cross-platform system integration, presentation strategy, product positioning
+**Makeathons:**
+- **JMUS Makeathon:** Product design, presentation, cross-platform integration
+- **JMU Makeathon (Fall 2026):** Echoes, anonymous place-locked voice notes; 3rd place
 
-**Club Events & Internal Training:**
-- **JMU Blue Team Mock Competition:** Real-time defense feedback, Windows hardening, iterative improvement, mentorship-focused learning environment
+**Club Events:**
+- **JMU Blue Team Mock:** Internal defense simulation, real-time feedback format
 
 **Conferences:**
-- **RVASEC15:** First industry conference, networking with security professionals, CTF (secondary goal), insights on soft skills and career development
+- **RVASEC15:** First industry conference, networking, career perspective
 
-## Skills & Domains Covered
+## Skills & Domains
 
-- **Competitive Programming:** Algorithms, data structures, discrete math, combinatorics, problem-solving under time constraints
-- **Cyber Defense:** Firewall configuration (Palo Alto NextGen), Linux hardening, Windows hardening (host-level), security monitoring, incident response, service ownership, credential rotation, Active Directory basics
-- **Offensive Security & CTF:** Challenge solving, exploitation, reverse engineering, forensics, web vulnerabilities, automated exploitation frameworks, privilege escalation, network enumeration, hands-on vs. automated trade-offs
-- **System Engineering:** Container orchestration (Docker), automation framework design, tool integration (Metasploit, sqlmap), payload generation and testing, realistic infrastructure exploitation
-- **Product Design & Development:** Cross-platform system integration, AI/conversational interfaces, smart home automation, hardware interfacing (Raspberry Pi)
-- **Presentation & Communication:** Product positioning, narrative design, technical/non-technical audience engagement, lessons on clarity vs. elegance, conference networking, personal branding
-- **Professional Development:** Networking, industry relationship building, understanding career paths, soft skills, conference attendance, mentorship
-- **Team Coordination:** Cross-functional collaboration (technical + business), technical leadership, time management under pressure, rapid prototyping, mentorship from experienced members
+- **Competitive Programming:** Algorithms, data structures, combinatorics
+- **Cyber Defense:** Palo Alto firewall, Linux hardening, Windows hardening, incident response, Active Directory basics
+- **Offensive Security & CTF:** Exploitation, reverse engineering, web vulnerabilities, privilege escalation, automated frameworks
+- **System Engineering:** Docker, automation, tool integration
+- **Product Design:** Pitch strategy, cross-platform integration, presentation clarity
+- **Professional Development:** Conference networking, soft skills, career direction

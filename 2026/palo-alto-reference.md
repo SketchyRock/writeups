@@ -4,7 +4,7 @@ Quick reference for securing and managing Palo Alto firewalls during MACCDC comp
 
 ## Password and login:
 ```bash
-# 1. Change Password -> Purple-Defender-Fire26!
+# 1. Change Password -> <new-password>
 
 configure
 set mgt-config users admin password
