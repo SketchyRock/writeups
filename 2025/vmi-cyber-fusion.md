@@ -12,6 +12,8 @@ tags: [ctf, automation, docker]
 
 # VMI Cyber Fusion 2025
 
+[← All write-ups](../README.md)
+
 We didn't really compete in the traditional sense. Jack and I built an automated CTF solver — a containerized Kali environment that could identify, categorize, and solve challenges with minimal human input. About 94% of challenges were handled autonomously. Everything got solved faster than any team doing it manually.
 
 It worked. We won.

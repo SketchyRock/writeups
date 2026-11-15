@@ -10,6 +10,8 @@ tags: [ctf, automation, docker, flask, ai-agents]
 
 # VMI CyberFusion 2026: CTF Orchestrator Overview
 
+[← All write-ups](../README.md)
+
 ## Project Overview
 
 This tool was engineered specifically for **VMI CyberFusion 26** to maximize efficiency and placement potential through automation. It functions as a hybrid **CTF Orchestrator** and **AI Solver**.

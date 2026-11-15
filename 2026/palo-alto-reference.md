@@ -9,6 +9,8 @@ tags: [palo-alto, firewall, maccdc, cheat-sheet]
 
 # Palo Alto NextGen Firewall Reference
 
+[← All write-ups](../README.md)
+
 Quick reference for securing and managing Palo Alto firewalls during MACCDC. Written for me to use mid-competition: commands first, explanation only where it saves time.
 
 ## Password and login

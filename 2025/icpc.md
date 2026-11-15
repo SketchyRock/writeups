@@ -12,6 +12,8 @@ tags: [icpc, competitive-programming, algorithms, combinatorics]
 
 # ICPC 2025
 
+[← All write-ups](../README.md)
+
 First competitive programming contest. Went in not really knowing what to expect.
 
 I took the easier end of the problem set — solved Snakey String and Memories of Passport Control, which let my teammates focus on harder stuff without having to come back and clean up. That part of the strategy worked. What didn't was problem queue management — nobody was tracking how long we'd been on something, and toward the end we had overlap and wasted time we could've spent elsewhere.

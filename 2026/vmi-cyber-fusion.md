@@ -10,6 +10,8 @@ tags: [ctf, automation, docker, ai-agents]
 
 # VMI CyberFusion 2026 Retrospective
 
+[← All write-ups](../README.md)
+
 ## The Shift in Strategy
 
 Reflecting on VMI CyberFusion 2026, the core takeaway wasn't about the individual challenges solved, but rather the methodology used to approach the competition. Instead of focusing grueling, manual effort on grinding through the CTF, the strategy pivoted towards building a platform to solve challenges in parallel.

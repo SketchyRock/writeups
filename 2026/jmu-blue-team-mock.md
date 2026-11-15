@@ -7,10 +7,13 @@ date: 2026-04-25
 organizer: "JMU Competitive Cybersecurity Club (internal)"
 role: "Windows defense"
 format: "Experienced members attack, newer members defend, with real-time feedback"
+result: "Box meaningfully harder to crack by the end of the session"
 tags: [blue-team, windows, hardening, iis]
 ---
 
 # JMU Blue Team Mock Competition
+
+[← All write-ups](../README.md)
 
 First internal competition the club has run. The format was exactly what you'd want for actually learning something: attackers who explain what they did and why it worked.
 

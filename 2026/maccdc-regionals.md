@@ -13,6 +13,8 @@ tags: [maccdc, blue-team, palo-alto, networking, wireshark]
 
 # MACCDC 2026 Regionals
 
+[← All write-ups](../README.md)
+
 48 hours of live network defense. First time doing this in a serious competitive environment. Results were bad. Learning was good.
 
 Services started failing early and I assumed it was the firewall. My role was firewall admin so naturally I blamed the firewall. I spent most of 30 hours writing, rewriting, and overwriting rules — each time convinced the next change would fix it. By hour 8 the ruleset was a mess of overlapping, conflicting policies.

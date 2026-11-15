@@ -15,6 +15,8 @@ tags: [makeathon, pitching, product, echoes]
 
 # JMU Makeathon, Fall 2026
 
+[← All write-ups](../README.md)
+
 We built Echoes: anonymous voice notes pinned to real places on campus. You can only hear or record one by standing at the spot. Popular ones become Legends, and some point to real clubs and events.
 
 We placed third. We went in expecting first, because we had a full working demo that everyone in the room could open on their phone and use at the same time. We still came third.

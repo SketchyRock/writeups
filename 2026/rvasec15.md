@@ -14,6 +14,8 @@ tags: [conference, networking, communication, career]
 
 # RVASEC15
 
+[← All write-ups](../README.md)
+
 Went planning to compete in the CTF. Left with something more useful.
 
 Jake Kouns — security industry veteran, knew our club advisor — gave JMU tickets directly. That turned out to matter more than I expected going in. Walking in with an implicit voucher from someone people recognize meant professionals were actually willing to talk.

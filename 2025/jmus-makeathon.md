@@ -12,6 +12,8 @@ tags: [makeathon, pitching, product-clarity]
 
 # JMUS Makeathon 2025
 
+[← All write-ups](../README.md)
+
 We built Jarvis — an AI home automation system that learned your routines and managed your environment through natural language. Smart lights, thermostat, calendar integration, all running off a Raspberry Pi hub. The live demo was genuinely impressive.
 
 We didn't place.

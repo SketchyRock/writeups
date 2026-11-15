@@ -15,6 +15,8 @@ tags: [ctf, privilege-escalation, enumeration, teamwork]
 
 # Summit CTF 2025
 
+[← All write-ups](../README.md)
+
 48 hours. Probably the most educational event I've done so far, partly because the arc went wrong in an instructive way.
 
 We came in with the upgraded automation framework from VMI and dominated the jeopardy portion early — had more flags than anyone else by hour 8. Teams from UVA, William & Mary, VCU all behind us on the scoreboard.
