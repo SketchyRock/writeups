@@ -12,7 +12,6 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 |---|---|---|
 | [VMI CyberFusion 2026 Retrospective](2026/vmi-cyber-fusion.md) | Feb 2026 | 1st place overall |
 | [Summit CTF 2025](2025/summit-ctf.md) | Feb 2025 | 9th out of ~35 |
-| [VMI Cyber Fusion 2025](2025/vmi-cyber-fusion.md) | Feb 2025 | 1st place |
 
 ### Cyber defense
 
@@ -28,7 +27,7 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 |---|---|---|
 | [ICPC 2025](2025/icpc.md) | Nov 2025 | ~50th percentile, 5 problems solved as a team |
 
-### Hackathons
+### Makeathons
 
 | Event | Date | Result |
 |---|---|---|

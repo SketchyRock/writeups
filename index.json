@@ -165,22 +165,6 @@
     "path": "2025/summit-ctf.md"
   },
   {
-    "title": "VMI Cyber Fusion 2025",
-    "type": "retrospective",
-    "category": "ctf",
-    "event": "VMI Cyber Fusion",
-    "date": "2025-02-15",
-    "format": "Digital CTF, secondary division (Microsoft-hosted)",
-    "team": "Me + Jack Nelson",
-    "result": "1st place",
-    "tags": [
-      "ctf",
-      "automation",
-      "docker"
-    ],
-    "path": "2025/vmi-cyber-fusion.md"
-  },
-  {
     "title": "JMUS Makeathon 2025",
     "type": "retrospective",
     "category": "makeathon",
