@@ -28,7 +28,7 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 |---|---|---|
 | [ICPC 2025](2025/icpc.md) | Nov 2025 | ~50th percentile, 5 problems solved as a team |
 
-### Makeathons
+### Hackathons
 
 | Event | Date | Result |
 |---|---|---|
