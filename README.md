@@ -1,6 +1,6 @@
 # writeups
 
-Short, honest retrospectives from the security competitions, makeathons, and conferences I take part in: what happened, what went wrong, and what I'd change. Each one is a single Markdown page. There is also a firewall cheat sheet and a technical overview of a CTF tool I built.
+Short, honest retrospectives from the security competitions, hackathons, and conferences I take part in: what happened, what went wrong, and what I'd change. Each one is a single Markdown page. There is also a firewall cheat sheet and a technical overview of a CTF tool I built.
 
 ## Index
 
