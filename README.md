@@ -28,3 +28,9 @@ Files are organized by year. Each event gets one document.
 **Makeathons:** JMUS Makeathon, JMU Makeathon (Fall 2026)  
 **Club events:** JMU Blue Team Mock Competition  
 **Conferences:** RVASEC15
+
+## Other documents
+
+`VMI-CyberFusion-2026/` holds a second VMI Cyber Fusion write-up (the AI-assisted CTF orchestrator) and a technical overview of the platform.
+
+Submissions to app design competitions and hackathons live alongside the retrospectives; the JMU Makeathon entry has its own repo: https://github.com/SketchyRock/echoes
