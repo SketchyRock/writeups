@@ -10,7 +10,7 @@
 |---|---|
 | `title` | Display title, same as the H1 |
 | `type` | `retrospective`, `reference`, or `project-writeup` |
-| `category` | `ctf`, `cyber-defense`, `competitive-programming`, `hackathon`, or `conference` |
+| `category` | `ctf`, `cyber-defense`, `competitive-programming`, `makeathon`, or `conference` |
 | `event` | Name of the event |
 | `date`, `end_date` | `YYYY-MM-DD`. Use `YYYY-MM` (quoted) when the day is unknown |
 | `location`, `organizer`, `role`, `format`, `team` | Context, only when it applies |

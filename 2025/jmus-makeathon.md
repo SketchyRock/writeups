@@ -1,16 +1,16 @@
 ---
-title: "JMUS Hackathon 2025"
+title: "JMUS Makeathon 2025"
 type: "retrospective"
-category: "hackathon"
-event: "JMUS Hackathon"
+category: "makeathon"
+event: "JMUS Makeathon"
 date: 2025-02-08
 format: "24-hour hackathon, solutions for mental health or disaster response"
 team: "4 people (2 CP members, 1 business major, me)"
 result: "No placement; judges gave 'best presentation overall' feedback"
-tags: [hackathon, pitching, product-clarity]
+tags: [makeathon, pitching, product-clarity]
 ---
 
-# JMUS Hackathon 2025
+# JMUS Makeathon 2025
 
 [← All write-ups](../README.md)
 

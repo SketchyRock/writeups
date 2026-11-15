@@ -1,19 +1,19 @@
 ---
-title: "JMU Hackathon, Fall 2026"
+title: "JMU Makeathon, Fall 2026"
 type: "retrospective"
-category: "hackathon"
-event: "JMU Hackathon"
+category: "makeathon"
+event: "JMU Makeathon"
 date: 2026-11-13
 end_date: 2026-11-14
-format: "24-hour hackathon"
+format: "24-hour makeathon"
 prompt: "Break out of your comfort zone"
 team: "David Hilscher, Luke Bonnell, Curtis Linweaver, me"
 result: "3rd place"
 repo: "https://github.com/SketchyRock/echoes"
-tags: [hackathon, pitching, product, echoes]
+tags: [makeathon, pitching, product, echoes]
 ---
 
-# JMU Hackathon, Fall 2026
+# JMU Makeathon, Fall 2026
 
 [← All write-ups](../README.md)
 

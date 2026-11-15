@@ -1,7 +1,7 @@
 ---
 title: "Event Name Year"
 type: "retrospective"
-category: "ctf"            # ctf | cyber-defense | competitive-programming | hackathon | conference
+category: "ctf"            # ctf | cyber-defense | competitive-programming | makeathon | conference
 event: "Event Name"
 date: YYYY-MM-DD         # end_date too if it spans days; YYYY-MM if the exact day is unknown
 location: "City, ST or Host School"
