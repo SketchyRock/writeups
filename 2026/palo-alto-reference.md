@@ -1,37 +1,46 @@
-# Palo Alto NextGen Firewall Reference Guide
+---
+title: "Palo Alto NextGen Firewall Reference"
+type: "reference"
+category: "cyber-defense"
+event: "MACCDC"
+tools: ["Palo Alto NextGen Firewall"]
+tags: [palo-alto, firewall, maccdc, cheat-sheet]
+---
 
-Quick reference for securing and managing Palo Alto firewalls during MACCDC competitions.
+# Palo Alto NextGen Firewall Reference
 
-## Password and login:
+[← All write-ups](../README.md)
+
+Quick reference for securing and managing Palo Alto firewalls during MACCDC. Written for me to use mid-competition: commands first, explanation only where it saves time.
+
+## Password and login
+
 ```bash
-# 1. Change Password -> <new-password>
-
 configure
+
+# 1. Change the admin password
 set mgt-config users admin password
 
-
-# 2. Lock Management Access to your subnet (e.g., 172.20.0.0/16)
-
+# 2. Lock management access to your subnet (gives access to the firewall from all Linux boxes)
 set deviceconfig system permitted-ip 172.20.242.0/24
-# gives access to firewall from all linux boxes
 
-
-# 3. disable ipv6 in memory ONLY DISABLE IF NO IPV6 NEEDED
-
-set deviceconfig setting session ipv6-firewalling no //no ipv6 in memory
+# 3. Disable IPv6 in memory (only if IPv6 is not needed)
+set deviceconfig setting session ipv6-firewalling no
 
 commit
 ```
 
-## Security Rules
+## Security rules
 
-### Initialize Red Team Blocklist
+### Initialize the Red Team blocklist
+
 ```bash
 set address "RED_IP_PH" ip-netmask 192.0.2.10
 set address-group "RED_TEAM_BLOCKLIST" static [ RED_IP_PH ]
 ```
 
-### Core Security Rules
+### Core security rules
+
 ```bash
 # Block all known Red Team IPs (priority: top)
 set rulebase security rules "BLOCK_RED_TEAM" from any to any source "RED_TEAM_BLOCKLIST" destination any application any service any action drop log-end yes
@@ -49,7 +58,8 @@ set rulebase security rules "ALLOW_INTERNAL_OUT" from internal to external sourc
 set rulebase security rules "ALLOW_SCORING" from external to internal source any destination any application ping service any action allow log-end yes
 ```
 
-### Apply Rule Order
+### Apply rule order
+
 ```bash
 configure
 
@@ -62,14 +72,16 @@ move rulebase security rules "ALLOW_INTERNAL_OUT" after "ALLOW_SCORING"
 commit
 ```
 
-### Delete Default Permits
+### Delete default permits
+
 These overly permissive base rules should be deleted after verification:
 ```bash
 delete rulebase security rules "Permit Outbound"
 delete rulebase security rules "Permit Inbound"
 ```
 
-### Adding New Red Team IPs to Blocklist
+### Add new Red Team IPs to the blocklist
+
 ```bash
 configure
 set address "RED_IP_NEW" ip-netmask <Attacker_IP>
@@ -77,24 +89,27 @@ set address-group "RED_TEAM_BLOCKLIST" static [ RED_IP_PH RED_IP_NEW ]
 commit
 ```
 
-### Monitoring & Diagnostics
+### Monitoring and diagnostics
 
-**View Traffic Logs:**
-```bash
+#### View traffic logs
+
+```text
 show log traffic direction equal backwards     # general traffic
 show log threat direction equal backwards      # identified threats
 ```
-(Exit with Ctrl+C)
+Exit with Ctrl+C.
 
-**Inspect Configuration:**
-```bash
+#### Inspect configuration
+
+```text
 show rulebase security rules                   # list all rules
 show config diff                               # compare pending vs committed
 show interface logical                         # list zones
 show system resources                          # check CPU/memory
 ```
 
-### Rule Management
+### Rule management
+
 ```bash
 # Enable logging on a specific rule
 set rulebase security rules "YOUR_RULE_NAME" log-end yes
@@ -106,12 +121,14 @@ rename rulebase security rules "OLD_NAME" to "NEW_NAME"
 delete rulebase security rules "ALLOW_LAN_SERVICES" application ping
 ```
 
-### Web GUI Access
+### Web GUI access
+
 Palo Alto GUI: `https://172.20.242.150` (when accessible)
 
-## Backup & Recovery
+## Backup and recovery
 
-### Create Snapshots (Before Major Changes)
+### Create snapshots (before major changes)
+
 ```bash
 # CLI mode
 configure
@@ -121,7 +138,8 @@ save config to [NAME].xml
 Device > Setup > Operations > Save named configuration snapshot
 ```
 
-### Restore from Snapshot
+### Restore from snapshot
+
 ```bash
 # CLI mode
 configure
@@ -132,7 +150,8 @@ commit
 Device > Setup > Operations > Load named configuration snapshot
 ```
 
-### List & Manage Snapshots
+### List and manage snapshots
+
 ```bash
 dir config                                      # List all saved configs
 save config to [NAME].xml                       # Save restore point
@@ -140,9 +159,7 @@ delete config saved [NAME].xml                  # Delete old backup
 show config diff                                # Compare pending vs active
 ```
 
----
-
-## Emergency Response Reference
+## Emergency reference
 
 | Situation | Action | Command |
 |:---|:---|:---|
@@ -152,9 +169,7 @@ show config diff                                # Compare pending vs active
 | CPU Spiking | Check Health | `show system resources` |
 | Need Quick Restore | Load Start-of-Round | `load config from running-config.xml` then `commit` |
 
----
-
-## Common Ports & Vulnerabilities
+## Common ports and risks
 
 | Port | Protocol | Service | Security Risk |
 |:---|:---|:---|:---|

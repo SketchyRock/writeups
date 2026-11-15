@@ -1,8 +1,17 @@
+---
+title: "MACCDC 2026 Qualifiers"
+type: "retrospective"
+category: "cyber-defense"
+event: "MACCDC"
+date: 2026-01-17
+role: "Palo Alto Firewall Administrator"
+result: "Solid individual performance, but a wake-up call on team prep gaps"
+tags: [maccdc, blue-team, palo-alto, incident-response]
+---
+
 # MACCDC 2026 Qualifiers
 
-**Date:** January 17, 2026  
-**Role:** Palo Alto Firewall Administrator  
-**Result:** Solid individual performance, but a wake-up call on team prep gaps
+[← All write-ups](../README.md)
 
 First defensive competition. I was on the firewall the whole time — Palo Alto NextGen managing the subnet gateway. That part went well: kept the rules clean, built a Red Team blocklist as IPs showed up, maintained rollback capability so I could harden aggressively without risking cascading failures. No self-inflicted downtime.
 

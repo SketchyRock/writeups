@@ -1,10 +1,21 @@
+---
+title: "JMU Makeathon, Fall 2026"
+type: "retrospective"
+category: "makeathon"
+event: "JMU Makeathon"
+date: 2026-11-13
+end_date: 2026-11-14
+format: "24-hour makeathon"
+prompt: "Break out of your comfort zone"
+team: "David Hilscher, Luke Bonnell, Curtis Linweaver, me"
+result: "3rd place"
+repo: "https://github.com/SketchyRock/echoes"
+tags: [makeathon, pitching, product, echoes]
+---
+
 # JMU Makeathon, Fall 2026
 
-**Date:** November 13 to 14, 2026
-**Format:** 24-hour makeathon, prompt: "break out of your comfort zone"
-**Team:** David Hilscher, Luke Bonnell, Curtis Linweaver, me
-**Result:** 3rd place
-**Repo:** https://github.com/SketchyRock/echoes (README, idea outline, screenshots, pitch deck)
+[← All write-ups](../README.md)
 
 We built Echoes: anonymous voice notes pinned to real places on campus. You can only hear or record one by standing at the spot. Popular ones become Legends, and some point to real clubs and events.
 

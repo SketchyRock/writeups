@@ -1,0 +1,215 @@
+[
+  {
+    "title": "JMU Makeathon, Fall 2026",
+    "type": "retrospective",
+    "category": "makeathon",
+    "event": "JMU Makeathon",
+    "date": "2026-11-13",
+    "end_date": "2026-11-14",
+    "format": "24-hour makeathon",
+    "prompt": "Break out of your comfort zone",
+    "team": "David Hilscher, Luke Bonnell, Curtis Linweaver, me",
+    "result": "3rd place",
+    "repo": "https://github.com/SketchyRock/echoes",
+    "tags": [
+      "makeathon",
+      "pitching",
+      "product",
+      "echoes"
+    ],
+    "path": "2026/echoes-makeathon.md"
+  },
+  {
+    "title": "JMU Blue Team Mock Competition",
+    "type": "retrospective",
+    "category": "cyber-defense",
+    "event": "JMU Blue Team Mock Competition",
+    "date": "2026-04-25",
+    "organizer": "JMU Competitive Cybersecurity Club (internal)",
+    "role": "Windows defense",
+    "format": "Experienced members attack, newer members defend, with real-time feedback",
+    "result": "Box meaningfully harder to crack by the end of the session",
+    "tags": [
+      "blue-team",
+      "windows",
+      "hardening",
+      "iis"
+    ],
+    "path": "2026/jmu-blue-team-mock.md"
+  },
+  {
+    "title": "RVASEC15",
+    "type": "retrospective",
+    "category": "conference",
+    "event": "RVASEC15",
+    "date": "2026-04-12",
+    "end_date": "2026-04-13",
+    "location": "Roanoke, VA",
+    "format": "Security conference (first attended)",
+    "ctf": "8 challenges in about 1 hour, then stopped",
+    "result": "5 professional contacts, 1 job offer pending graduation",
+    "tags": [
+      "conference",
+      "networking",
+      "communication",
+      "career"
+    ],
+    "path": "2026/rvasec15.md"
+  },
+  {
+    "title": "VMI CyberFusion 2026: CTF Orchestrator Overview",
+    "type": "project-writeup",
+    "category": "ctf",
+    "event": "VMI Cyber Fusion",
+    "date": "2026-02",
+    "tools": [
+      "Flask",
+      "Socket.IO",
+      "Docker",
+      "OpenAI API"
+    ],
+    "tags": [
+      "ctf",
+      "automation",
+      "docker",
+      "flask",
+      "ai-agents"
+    ],
+    "path": "2026/vmi-cyber-fusion-platform.md"
+  },
+  {
+    "title": "VMI CyberFusion 2026 Retrospective",
+    "type": "retrospective",
+    "category": "ctf",
+    "event": "VMI Cyber Fusion",
+    "date": "2026-02",
+    "result": "1st place overall",
+    "tags": [
+      "ctf",
+      "automation",
+      "docker",
+      "ai-agents"
+    ],
+    "path": "2026/vmi-cyber-fusion.md"
+  },
+  {
+    "title": "MACCDC 2026 Regionals",
+    "type": "retrospective",
+    "category": "cyber-defense",
+    "event": "MACCDC",
+    "date": "2026-01-25",
+    "end_date": "2026-01-26",
+    "location": "University of Maryland",
+    "role": "Palo Alto Firewall Administrator",
+    "result": "Minimal service uptime, significant learning",
+    "tags": [
+      "maccdc",
+      "blue-team",
+      "palo-alto",
+      "networking",
+      "wireshark"
+    ],
+    "path": "2026/maccdc-regionals.md"
+  },
+  {
+    "title": "MACCDC 2026 Qualifiers",
+    "type": "retrospective",
+    "category": "cyber-defense",
+    "event": "MACCDC",
+    "date": "2026-01-17",
+    "role": "Palo Alto Firewall Administrator",
+    "result": "Solid individual performance, but a wake-up call on team prep gaps",
+    "tags": [
+      "maccdc",
+      "blue-team",
+      "palo-alto",
+      "incident-response"
+    ],
+    "path": "2026/maccdc-qualifiers.md"
+  },
+  {
+    "title": "ICPC 2025",
+    "type": "retrospective",
+    "category": "competitive-programming",
+    "event": "ICPC",
+    "date": "2025-11-08",
+    "location": "Virginia Tech",
+    "division": "2 (mid-level)",
+    "result": "~50th percentile, 5 problems solved as a team",
+    "tags": [
+      "icpc",
+      "competitive-programming",
+      "algorithms",
+      "combinatorics"
+    ],
+    "path": "2025/icpc.md"
+  },
+  {
+    "title": "Summit CTF 2025",
+    "type": "retrospective",
+    "category": "ctf",
+    "event": "Summit CTF",
+    "date": "2025-02-22",
+    "end_date": "2025-02-23",
+    "organizer": "Virginia Tech",
+    "theme": "Airport infrastructure (Hack the Airport)",
+    "format": "Hybrid: jeopardy + live network",
+    "team": "B team",
+    "result": "9th out of ~35",
+    "tags": [
+      "ctf",
+      "privilege-escalation",
+      "enumeration",
+      "teamwork"
+    ],
+    "path": "2025/summit-ctf.md"
+  },
+  {
+    "title": "VMI Cyber Fusion 2025",
+    "type": "retrospective",
+    "category": "ctf",
+    "event": "VMI Cyber Fusion",
+    "date": "2025-02-15",
+    "format": "Digital CTF, secondary division (Microsoft-hosted)",
+    "team": "Me + Jack Nelson",
+    "result": "1st place",
+    "tags": [
+      "ctf",
+      "automation",
+      "docker"
+    ],
+    "path": "2025/vmi-cyber-fusion.md"
+  },
+  {
+    "title": "JMUS Makeathon 2025",
+    "type": "retrospective",
+    "category": "makeathon",
+    "event": "JMUS Makeathon",
+    "date": "2025-02-08",
+    "format": "24-hour hackathon, solutions for mental health or disaster response",
+    "team": "4 people (2 CP members, 1 business major, me)",
+    "result": "No placement; judges gave 'best presentation overall' feedback",
+    "tags": [
+      "makeathon",
+      "pitching",
+      "product-clarity"
+    ],
+    "path": "2025/jmus-makeathon.md"
+  },
+  {
+    "title": "Palo Alto NextGen Firewall Reference",
+    "type": "reference",
+    "category": "cyber-defense",
+    "event": "MACCDC",
+    "tools": [
+      "Palo Alto NextGen Firewall"
+    ],
+    "tags": [
+      "palo-alto",
+      "firewall",
+      "maccdc",
+      "cheat-sheet"
+    ],
+    "path": "2026/palo-alto-reference.md"
+  }
+]

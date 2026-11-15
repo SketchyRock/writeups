@@ -1,36 +1,55 @@
-# Competition Write-ups & Resources
+# writeups
 
-Documenting participation in cybersecurity competitions, makeathons, and conferences. Retrospectives focus on what the experience was like, what went wrong, and what to do differently.
+Short, honest retrospectives from the security competitions, makeathons, and conferences I take part in: what happened, what went wrong, and what I'd change. Each one is a single Markdown page. There is also a firewall cheat sheet and a technical overview of a CTF tool I built.
 
-## Structure
+## Index
 
-Files are organized by year. Each event gets one document.
+<!-- index:start -->
 
-```
-2025/
-  icpc.md                   # ICPC regional — first CP contest, ~50th percentile
-  vmi-cyber-fusion.md       # VMI Cyber Fusion — automated CTF solver, 1st place
-  summit-ctf.md             # Summit CTF (VT) — hybrid jeopardy + live network, 9th place
-  jmus-makeathon.md         # JMUS Makeathon — Jarvis home automation, clarity > elegance
+### Capture the flag
 
-2026/
-  maccdc-qualifiers.md      # MACCDC Qualifiers — firewall admin, unowned system incident
-  maccdc-regionals.md       # MACCDC Regionals (UMD) — packet loop, prep > skill
-  jmu-blue-team-mock.md     # JMU internal mock — Windows defense, real-time feedback
-  echoes-makeathon.md       # JMU Makeathon fall 2026 — Echoes, 3rd place
-  rvasec15.md               # RVASEC15 conference — networking > CTF grinding
-  palo-alto-reference.md    # Quick reference for Palo Alto NextGen firewall (MACCDC)
-```
+| Event | Date | Result |
+|---|---|---|
+| [VMI CyberFusion 2026 Retrospective](2026/vmi-cyber-fusion.md) | Feb 2026 | 1st place overall |
+| [Summit CTF 2025](2025/summit-ctf.md) | Feb 2025 | 9th out of ~35 |
+| [VMI Cyber Fusion 2025](2025/vmi-cyber-fusion.md) | Feb 2025 | 1st place |
 
-## Events covered
+### Cyber defense
 
-**Competitions:** ICPC, MACCDC (qualifiers + regionals), VMI Cyber Fusion, Summit CTF  
-**Makeathons:** JMUS Makeathon, JMU Makeathon (Fall 2026)  
-**Club events:** JMU Blue Team Mock Competition  
-**Conferences:** RVASEC15
+| Event | Date | Result |
+|---|---|---|
+| [JMU Blue Team Mock Competition](2026/jmu-blue-team-mock.md) | Apr 2026 | Box meaningfully harder to crack by the end of the session |
+| [MACCDC 2026 Regionals](2026/maccdc-regionals.md) | Jan 2026 | Minimal service uptime, significant learning |
+| [MACCDC 2026 Qualifiers](2026/maccdc-qualifiers.md) | Jan 2026 | Solid individual performance, but a wake-up call on team prep gaps |
 
-## Other documents
+### Competitive programming
 
-`VMI-CyberFusion-2026/` holds a second VMI Cyber Fusion write-up (the AI-assisted CTF orchestrator) and a technical overview of the platform.
+| Event | Date | Result |
+|---|---|---|
+| [ICPC 2025](2025/icpc.md) | Nov 2025 | ~50th percentile, 5 problems solved as a team |
 
-Submissions to app design competitions and hackathons live alongside the retrospectives; the JMU Makeathon entry has its own repo: https://github.com/SketchyRock/echoes
+### Makeathons
+
+| Event | Date | Result |
+|---|---|---|
+| [JMU Makeathon, Fall 2026](2026/echoes-makeathon.md) | Nov 2026 | 3rd place |
+| [JMUS Makeathon 2025](2025/jmus-makeathon.md) | Feb 2025 | No placement; judges gave 'best presentation overall' feedback |
+
+### Conferences
+
+| Event | Date | Result |
+|---|---|---|
+| [RVASEC15](2026/rvasec15.md) | Apr 2026 | 5 professional contacts, 1 job offer pending graduation |
+
+### Reference and project notes
+
+| Document | For | Type |
+|---|---|---|
+| [VMI CyberFusion 2026: CTF Orchestrator Overview](2026/vmi-cyber-fusion-platform.md) | VMI Cyber Fusion | project-writeup |
+| [Palo Alto NextGen Firewall Reference](2026/palo-alto-reference.md) | MACCDC | reference |
+
+<!-- index:end -->
+
+## For tools and scripts
+
+`index.json` lists every document with its front matter (title, event, date, result, tags, path), so the pages can be read by a script or pulled into another site. The layout and field definitions are in [`templates/README.md`](templates/README.md).

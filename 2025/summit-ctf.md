@@ -1,9 +1,21 @@
+---
+title: "Summit CTF 2025"
+type: "retrospective"
+category: "ctf"
+event: "Summit CTF"
+date: 2025-02-22
+end_date: 2025-02-23
+organizer: "Virginia Tech"
+theme: "Airport infrastructure (Hack the Airport)"
+format: "Hybrid: jeopardy + live network"
+team: "B team"
+result: "9th out of ~35"
+tags: [ctf, privilege-escalation, enumeration, teamwork]
+---
+
 # Summit CTF 2025
 
-**Date:** February 22-23, 2025 | Organized by Virginia Tech  
-**Theme:** Airport infrastructure (Hack the Airport)  
-**Format:** Hybrid — jeopardy + live network  
-**Team:** B team | **Result:** 9th out of ~35
+[← All write-ups](../README.md)
 
 48 hours. Probably the most educational event I've done so far, partly because the arc went wrong in an instructive way.
 
@@ -15,6 +27,8 @@ What pulled us back was just stubbornness. We started treating the live network 
 
 9th place.
 
-**The big lesson:** All the information you need is online. The gap between teams isn't usually secret knowledge, it's how much they've practiced applying what's publicly available. The top teams had 2-3 deep specializations — UVA was strong on priv esc, William & Mary owned web exploitation. We were 6 people trying to cover 6 categories and were mediocre at all of them.
+## The big lesson
+
+All the information you need is online. The gap between teams isn't usually secret knowledge, it's how much they've practiced applying what's publicly available. The top teams had 2-3 deep specializations — UVA was strong on priv esc, William & Mary owned web exploitation. We were 6 people trying to cover 6 categories and were mediocre at all of them.
 
 Depth beats breadth in competition. I need to pick something and go deep.
