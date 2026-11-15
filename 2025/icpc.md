@@ -3,7 +3,7 @@ title: "ICPC 2025"
 type: "retrospective"
 category: "competitive-programming"
 event: "ICPC"
-date: 2025-11-08
+date: "2025-11"
 location: "Virginia Tech"
 division: "2 (mid-level)"
 result: "~50th percentile, 5 problems solved as a team"

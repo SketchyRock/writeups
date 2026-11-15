@@ -12,7 +12,7 @@
 | `type` | `retrospective`, `reference`, or `project-writeup` |
 | `category` | `ctf`, `cyber-defense`, `competitive-programming`, `makeathon`, or `conference` |
 | `event` | Name of the event |
-| `date`, `end_date` | `YYYY-MM-DD`. Use `YYYY-MM` (quoted) when the day is unknown |
+| `date` | `"YYYY-MM"` (quoted). Month and year only, no day |
 | `location`, `organizer`, `role`, `format`, `team` | Context, only when it applies |
 | `result` | Placement or outcome in one line |
 | `tags` | Lowercase, hyphenated keywords |

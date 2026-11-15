@@ -51,7 +51,7 @@ def read_doc(path):
 
 
 def pretty_date(meta):
-    d, e = meta.get("date", ""), meta.get("end_date", "")
+    d = meta.get("date", "")
     parts = d.split("-")
     if len(parts) < 2:
         return d
@@ -75,6 +75,10 @@ def main():
         for field in REQUIRED:
             if not meta.get(field):
                 problems.append(f"{path.name}: missing '{field}'")
+        if meta.get("date") and not re.fullmatch(r"\d{4}-\d{2}", meta["date"]):
+            problems.append(f"{path.name}: date must be \"YYYY-MM\" (month and year only)")
+        if "end_date" in meta:
+            problems.append(f"{path.name}: remove 'end_date'; dates are month and year only")
         if not meta["has_breadcrumb"]:
             problems.append(f"{path.name}: missing '[← All write-ups](../README.md)' under the H1")
         docs.append(meta)

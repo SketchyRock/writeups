@@ -3,8 +3,7 @@ title: "MACCDC 2026 Regionals"
 type: "retrospective"
 category: "cyber-defense"
 event: "MACCDC"
-date: 2026-01-25
-end_date: 2026-01-26
+date: "2026-01"
 location: "University of Maryland"
 role: "Palo Alto Firewall Administrator"
 result: "Minimal service uptime, significant learning"

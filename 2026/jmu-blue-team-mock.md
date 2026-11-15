@@ -3,7 +3,7 @@ title: "JMU Blue Team Mock Competition"
 type: "retrospective"
 category: "cyber-defense"
 event: "JMU Blue Team Mock Competition"
-date: 2026-04-25
+date: "2026-04"
 organizer: "JMU Competitive Cybersecurity Club (internal)"
 role: "Windows defense"
 format: "Experienced members attack, newer members defend, with real-time feedback"

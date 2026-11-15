@@ -3,8 +3,7 @@ title: "RVASEC15"
 type: "retrospective"
 category: "conference"
 event: "RVASEC15"
-date: 2026-04-12
-end_date: 2026-04-13
+date: "2026-04"
 location: "Richmond, VA"
 format: "Security conference (first attended)"
 ctf: "8 challenges in about 1 hour, then stopped"

@@ -3,8 +3,7 @@ title: "Summit CTF 2026"
 type: "retrospective"
 category: "ctf"
 event: "Summit CTF"
-date: 2026-02-22
-end_date: 2026-02-23
+date: "2026-02"
 location: "Virginia Tech"
 organizer: "Virginia Tech"
 theme: "Airport infrastructure (Hack the Airport)"

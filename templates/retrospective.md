@@ -3,7 +3,7 @@ title: "Event Name Year"
 type: "retrospective"
 category: "ctf"            # ctf | cyber-defense | competitive-programming | makeathon | conference
 event: "Event Name"
-date: YYYY-MM-DD         # end_date too if it spans days; YYYY-MM if the exact day is unknown
+date: "YYYY-MM"          # month and year only, quoted
 location: "City, ST or Host School"
 role: "What I did"
 team: "Who I competed with"
