@@ -12,7 +12,6 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 |---|---|---|
 | [VMI CyberFusion 2026 Retrospective](2026/vmi-cyber-fusion.md) | Feb 2026 | 1st place overall |
 | [Summit CTF 2025](2025/summit-ctf.md) | Feb 2025 | 9th out of ~35 |
-| [VMI Cyber Fusion 2025](2025/vmi-cyber-fusion.md) | Feb 2025 | 1st place |
 
 ### Cyber defense
 
@@ -39,7 +38,7 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 
 | Event | Date | Result |
 |---|---|---|
-| [RVASEC15](2026/rvasec15.md) | Apr 2026 | 5 professional contacts, 1 job offer pending graduation |
+| [RVASEC15](2026/rvasec15.md) | Apr 2026 | 5 professional contacts who said to reach out after graduation |
 
 ### Reference and project notes
 

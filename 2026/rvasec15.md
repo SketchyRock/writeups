@@ -8,7 +8,7 @@ end_date: 2026-04-13
 location: "Roanoke, VA"
 format: "Security conference (first attended)"
 ctf: "8 challenges in about 1 hour, then stopped"
-result: "5 professional contacts, 1 job offer pending graduation"
+result: "5 professional contacts who said to reach out after graduation"
 tags: [conference, networking, communication, career]
 ---
 
@@ -24,7 +24,7 @@ Day 1, I went to the first keynote just to orient myself and never came back to 
 
 Spent the rest of Day 1 in conversations. Threat intel analyst at a Fortune 500, security startup founder, a red team operator. Every single one came back to the same thing: technical skill is the entry ticket, communication is what differentiates you. Can you write the report? Can you explain this to a non-technical CEO? Do people want to work with you? The red teamer specifically: "Every red teamer can escalate privileges. What separates you is whether you can document it clearly and explain to a client why it matters."
 
-Day 2 I solved 8 challenges in an hour (easy-medium range), hit something hard, gave up after 15 minutes, and went to talks instead. Booth crawl in the afternoon. Left with 4-5 emails from people who explicitly said reach out after graduation. One consulting firm basically offered a position pending degree.
+Day 2 I solved 8 challenges in an hour (easy-medium range), hit something hard, gave up after 15 minutes, and went to talks instead. Booth crawl in the afternoon. Left with 4-5 emails from people who explicitly said reach out after graduation.
 
 Wouldn't have gotten any of that grinding a laptop for 8 hours.
 

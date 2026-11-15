@@ -47,7 +47,7 @@
     "location": "Roanoke, VA",
     "format": "Security conference (first attended)",
     "ctf": "8 challenges in about 1 hour, then stopped",
-    "result": "5 professional contacts, 1 job offer pending graduation",
+    "result": "5 professional contacts who said to reach out after graduation",
     "tags": [
       "conference",
       "networking",
@@ -179,22 +179,6 @@
       "teamwork"
     ],
     "path": "2025/summit-ctf.md"
-  },
-  {
-    "title": "VMI Cyber Fusion 2025",
-    "type": "retrospective",
-    "category": "ctf",
-    "event": "VMI Cyber Fusion",
-    "date": "2025-02-15",
-    "format": "Digital CTF, secondary division (Microsoft-hosted)",
-    "team": "Me + Jack Nelson",
-    "result": "1st place",
-    "tags": [
-      "ctf",
-      "automation",
-      "docker"
-    ],
-    "path": "2025/vmi-cyber-fusion.md"
   },
   {
     "title": "Palo Alto NextGen Firewall Reference",
