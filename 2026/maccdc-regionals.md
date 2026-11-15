@@ -1,8 +1,17 @@
-# MACCDC 2026 Regionals
+---
+title: "MACCDC 2026 Regionals"
+type: "retrospective"
+category: "cyber-defense"
+event: "MACCDC"
+date: 2026-01-25
+end_date: 2026-01-26
+location: "University of Maryland"
+role: "Palo Alto Firewall Administrator"
+result: "Minimal service uptime, significant learning"
+tags: [maccdc, blue-team, palo-alto, networking, wireshark]
+---
 
-**Date:** January 25-26, 2026 | University of Maryland  
-**Role:** Palo Alto Firewall Administrator  
-**Result:** Minimal service uptime, significant learning
+# MACCDC 2026 Regionals
 
 48 hours of live network defense. First time doing this in a serious competitive environment. Results were bad. Learning was good.
 
@@ -16,5 +25,6 @@ The root cause wasn't really technical. We showed up without understanding our o
 
 Also: when I'm a hammer, everything looks like a firewall rule. Should have escalated to someone checking layer 2 on day 1 instead of staying siloed for 30 hours.
 
-**What changes next time:**  
+## What changes next time
+
 Preparation is the actual work. Network topology diagram a week out. Service inventory and ownership assigned before going live. Traffic baseline captured in a quiet moment. Always capture packets before touching rules.

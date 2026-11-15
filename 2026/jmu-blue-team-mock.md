@@ -1,9 +1,16 @@
-# JMU Blue Team Mock Competition
+---
+title: "JMU Blue Team Mock Competition"
+type: "retrospective"
+category: "cyber-defense"
+event: "JMU Blue Team Mock Competition"
+date: 2026-04-25
+organizer: "JMU Competitive Cybersecurity Club (internal)"
+role: "Windows defense"
+format: "Experienced members attack, newer members defend, with real-time feedback"
+tags: [blue-team, windows, hardening, iis]
+---
 
-**Date:** April 25, 2026  
-**Organizer:** JMU Competitive Cybersecurity Club (internal)  
-**Role:** Windows defense  
-**Format:** Experienced members attack, newer members defend — real-time feedback
+# JMU Blue Team Mock Competition
 
 First internal competition the club has run. The format was exactly what you'd want for actually learning something: attackers who explain what they did and why it worked.
 
@@ -15,5 +22,6 @@ The part that actually worked was staying curious when things went wrong. I aske
 
 Real-time feedback from someone actively trying to break what you built is how you actually improve. Delayed scoreboard updates don't come close.
 
-**Where I landed:**  
+## Where I landed
+
 Windows defense as a specialization going forward. Underrepresented in the club, common in enterprise environments, and it turned out to be genuinely interesting. Next semester I want to try the red team side of the same event — learn how to break what I'm building to defend.

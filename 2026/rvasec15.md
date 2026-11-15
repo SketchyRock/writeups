@@ -1,9 +1,18 @@
-# RVASEC15
+---
+title: "RVASEC15"
+type: "retrospective"
+category: "conference"
+event: "RVASEC15"
+date: 2026-04-12
+end_date: 2026-04-13
+location: "Roanoke, VA"
+format: "Security conference (first attended)"
+ctf: "8 challenges in about 1 hour, then stopped"
+result: "5 professional contacts, 1 job offer pending graduation"
+tags: [conference, networking, communication, career]
+---
 
-**Date:** April 12-13, 2026 | Roanoke, VA  
-**Type:** Security conference (first I've attended)  
-**CTF:** 8 challenges in ~1 hour, then stopped  
-**Real outcome:** 5 professional contacts, 1 job offer pending graduation
+# RVASEC15
 
 Went planning to compete in the CTF. Left with something more useful.
 
@@ -17,7 +26,8 @@ Day 2 I solved 8 challenges in an hour (easy-medium range), hit something hard, 
 
 Wouldn't have gotten any of that grinding a laptop for 8 hours.
 
-**The shift:**  
+## The shift
+
 Competitions train technical skills. Conferences train everything else. CTF practice is always available — it's online, unlimited, I can do it any day. I can attend RVASEC once a year. Optimize for what's rare.
 
 Also: being good and people knowing you're good are different things. Planning to write more, document more, build something that exists outside of competition scoreboards.
