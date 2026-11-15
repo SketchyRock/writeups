@@ -4,8 +4,7 @@
     "type": "retrospective",
     "category": "makeathon",
     "event": "JMU Makeathon",
-    "date": "2026-11-13",
-    "end_date": "2026-11-14",
+    "date": "2026-11",
     "format": "24-hour makeathon",
     "prompt": "Break out of your comfort zone",
     "team": "David Hilscher, Luke Bonnell, Curtis Linweaver, me",
@@ -20,30 +19,11 @@
     "path": "2026/echoes-makeathon.md"
   },
   {
-    "title": "JMU Blue Team Mock Competition",
-    "type": "retrospective",
-    "category": "cyber-defense",
-    "event": "JMU Blue Team Mock Competition",
-    "date": "2026-04-25",
-    "organizer": "JMU Competitive Cybersecurity Club (internal)",
-    "role": "Windows defense",
-    "format": "Experienced members attack, newer members defend, with real-time feedback",
-    "result": "Box meaningfully harder to crack by the end of the session",
-    "tags": [
-      "blue-team",
-      "windows",
-      "hardening",
-      "iis"
-    ],
-    "path": "2026/jmu-blue-team-mock.md"
-  },
-  {
     "title": "RVASEC15",
     "type": "retrospective",
     "category": "conference",
     "event": "RVASEC15",
-    "date": "2026-04-12",
-    "end_date": "2026-04-13",
+    "date": "2026-04",
     "location": "Richmond, VA",
     "format": "Security conference (first attended)",
     "ctf": "8 challenges in about 1 hour, then stopped",
@@ -57,41 +37,22 @@
     "path": "2026/rvasec15.md"
   },
   {
-    "title": "Summit CTF 2026",
+    "title": "JMU Blue Team Mock Competition",
     "type": "retrospective",
-    "category": "ctf",
-    "event": "Summit CTF",
-    "date": "2026-02-22",
-    "end_date": "2026-02-23",
-    "location": "Virginia Tech",
-    "organizer": "Virginia Tech",
-    "theme": "Airport infrastructure (Hack the Airport)",
-    "format": "Hybrid: jeopardy + live network",
-    "team": "B team",
-    "result": "9th out of ~35",
+    "category": "cyber-defense",
+    "event": "JMU Blue Team Mock Competition",
+    "date": "2026-04",
+    "organizer": "JMU Competitive Cybersecurity Club (internal)",
+    "role": "Windows defense",
+    "format": "Experienced members attack, newer members defend, with real-time feedback",
+    "result": "Box meaningfully harder to crack by the end of the session",
     "tags": [
-      "ctf",
-      "privilege-escalation",
-      "enumeration",
-      "teamwork"
+      "blue-team",
+      "windows",
+      "hardening",
+      "iis"
     ],
-    "path": "2026/summit-ctf.md"
-  },
-  {
-    "title": "JMUS Makeathon, Spring 2026",
-    "type": "retrospective",
-    "category": "makeathon",
-    "event": "JMUS Makeathon",
-    "date": "2026-02-08",
-    "format": "24-hour hackathon, solutions for mental health or disaster response",
-    "team": "4 people (2 CP members, 1 business major, me)",
-    "result": "No placement; judges gave 'best presentation overall' feedback",
-    "tags": [
-      "makeathon",
-      "pitching",
-      "product-clarity"
-    ],
-    "path": "2026/jmus-makeathon.md"
+    "path": "2026/jmu-blue-team-mock.md"
   },
   {
     "title": "VMI CyberFusion 2026: CTF Orchestrator Overview",
@@ -130,12 +91,47 @@
     "path": "2026/vmi-cyber-fusion.md"
   },
   {
+    "title": "Summit CTF 2026",
+    "type": "retrospective",
+    "category": "ctf",
+    "event": "Summit CTF",
+    "date": "2026-02",
+    "location": "Virginia Tech",
+    "organizer": "Virginia Tech",
+    "theme": "Airport infrastructure (Hack the Airport)",
+    "format": "Hybrid: jeopardy + live network",
+    "team": "B team",
+    "result": "9th out of ~35",
+    "tags": [
+      "ctf",
+      "privilege-escalation",
+      "enumeration",
+      "teamwork"
+    ],
+    "path": "2026/summit-ctf.md"
+  },
+  {
+    "title": "JMUS Makeathon, Spring 2026",
+    "type": "retrospective",
+    "category": "makeathon",
+    "event": "JMUS Makeathon",
+    "date": "2026-02",
+    "format": "24-hour hackathon, solutions for mental health or disaster response",
+    "team": "4 people (2 CP members, 1 business major, me)",
+    "result": "No placement; judges gave 'best presentation overall' feedback",
+    "tags": [
+      "makeathon",
+      "pitching",
+      "product-clarity"
+    ],
+    "path": "2026/jmus-makeathon.md"
+  },
+  {
     "title": "MACCDC 2026 Regionals",
     "type": "retrospective",
     "category": "cyber-defense",
     "event": "MACCDC",
-    "date": "2026-01-25",
-    "end_date": "2026-01-26",
+    "date": "2026-01",
     "location": "University of Maryland",
     "role": "Palo Alto Firewall Administrator",
     "result": "Minimal service uptime, significant learning",
@@ -153,7 +149,7 @@
     "type": "retrospective",
     "category": "cyber-defense",
     "event": "MACCDC",
-    "date": "2026-01-17",
+    "date": "2026-01",
     "location": "University of Maryland",
     "role": "Palo Alto Firewall Administrator",
     "result": "Solid individual performance, but a wake-up call on team prep gaps",
@@ -170,7 +166,7 @@
     "type": "retrospective",
     "category": "competitive-programming",
     "event": "ICPC",
-    "date": "2025-11-08",
+    "date": "2025-11",
     "location": "Virginia Tech",
     "division": "2 (mid-level)",
     "result": "~50th percentile, 5 problems solved as a team",

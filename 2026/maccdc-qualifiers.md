@@ -3,7 +3,7 @@ title: "MACCDC 2026 Qualifiers"
 type: "retrospective"
 category: "cyber-defense"
 event: "MACCDC"
-date: 2026-01-17
+date: "2026-01"
 location: "University of Maryland"
 role: "Palo Alto Firewall Administrator"
 result: "Solid individual performance, but a wake-up call on team prep gaps"

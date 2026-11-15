@@ -3,7 +3,7 @@ title: "JMUS Makeathon, Spring 2026"
 type: "retrospective"
 category: "makeathon"
 event: "JMUS Makeathon"
-date: 2026-02-08
+date: "2026-02"
 format: "24-hour hackathon, solutions for mental health or disaster response"
 team: "4 people (2 CP members, 1 business major, me)"
 result: "No placement; judges gave 'best presentation overall' feedback"

@@ -3,8 +3,7 @@ title: "JMU Makeathon, Fall 2026"
 type: "retrospective"
 category: "makeathon"
 event: "JMU Makeathon"
-date: 2026-11-13
-end_date: 2026-11-14
+date: "2026-11"
 format: "24-hour makeathon"
 prompt: "Break out of your comfort zone"
 team: "David Hilscher, Luke Bonnell, Curtis Linweaver, me"
