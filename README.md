@@ -28,7 +28,7 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 |---|---|---|
 | [ICPC 2025](2025/icpc.md) | Nov 2025 | ~50th percentile, 5 problems solved as a team |
 
-### Hackathons
+### Makeathons
 
 | Event | Date | Result |
 |---|---|---|
@@ -39,7 +39,7 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 
 | Event | Date | Result |
 |---|---|---|
-| [RVASEC15](2026/rvasec15.md) | Apr 2026 | 5 professional contacts, 1 job offer pending graduation |
+| [RVASEC15](2026/rvasec15.md) | Apr 2026 | 5 professional contacts who said to reach out after graduation |
 
 ### Reference and project notes
 
