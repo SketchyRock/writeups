@@ -28,12 +28,12 @@ Short, honest retrospectives from the security competitions, hackathons, and con
 |---|---|---|
 | [ICPC 2025](2025/icpc.md) | Nov 2025 | ~50th percentile, 5 problems solved as a team |
 
-### Hackathons
+### Makeathons
 
 | Event | Date | Result |
 |---|---|---|
 | [JMU Makeathon, Fall 2026](2026/echoes-makeathon.md) | Nov 2026 | 3rd place |
-| [JMUS Makeathon 2025](2025/jmus-makeathon.md) | Feb 2025 | No placement; judges gave 'best presentation overall' feedback |
+| [JMUS Makeathon, Spring 2026](2026/jmus-makeathon.md) | Feb 2026 | No placement; judges gave 'best presentation overall' feedback |
 
 ### Conferences
 
